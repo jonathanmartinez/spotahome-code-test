@@ -9,8 +9,11 @@
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 
 To run the app:
+
 First, download and run the server part: https://github.com/jonathanmartinez/spotahome-server-code-test/
+
 Once you have the server runing, you can run this app with:
+
 ```javascript
 sudo npm install
 npm start
