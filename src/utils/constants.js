@@ -1,0 +1,1 @@
+exports.DEFAULT_COVER = "https://www.toptal.com/designers/subtlepatterns/patterns/bananas.png";

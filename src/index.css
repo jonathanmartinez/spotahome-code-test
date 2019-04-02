@@ -1,0 +1,30 @@
+:root {
+    --spotaroom-yellow: #FCD103; 
+    --spotaroom-dark-green: #146A20;
+    --spotaroom-green: #3d8F31;
+    --spotaroom-orange: #F09218;
+    --spotaroom-dark-orange: #aa620e;
+    --spotaroom-white: #FFF;
+}
+.badge-spot{
+    color: var(--spotaroom-yellow);
+}
+
+.btn{
+    color: var(--spotaroom-white);
+    font-weight: bold;
+}
+
+.btn-spot{
+    background-color: var(--spotaroom-green);
+    border-bottom: solid 6px var(--spotaroom-dark-green);
+}
+
+.btn-spot-secondary{
+    background-color: var(--spotaroom-orange);
+    border-bottom: solid 6px var(--spotaroom-dark-orange);
+}
+
+.img-spot:hover {
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+}
